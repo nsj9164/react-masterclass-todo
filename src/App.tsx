@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import ToDoList from "./ToDoList";
+import ToDoList from "./component/ToDoList";
 
 // 렌더링 될 떄, 그 컴포넌트는 전역 스코프에 스타일들을 올려줘
 // 기본값 제거
